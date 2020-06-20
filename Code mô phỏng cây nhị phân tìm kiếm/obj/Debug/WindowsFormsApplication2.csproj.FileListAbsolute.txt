@@ -1,0 +1,29 @@
+C:\Documents and Settings\Root\My Documents\Visual Studio 2008\Projects\Y2 BSTreeDemo\WindowsFormsApplication2\bin\Debug\Y2 BSTree Demo.exe
+C:\Documents and Settings\Root\My Documents\Visual Studio 2008\Projects\Y2 BSTreeDemo\WindowsFormsApplication2\bin\Debug\Y2 BSTree Demo.pdb
+C:\Documents and Settings\Root\My Documents\Visual Studio 2008\Projects\Y2 BSTreeDemo\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Root\My Documents\Visual Studio 2008\Projects\Y2 BSTreeDemo\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.BSTreePanel.resources
+C:\Documents and Settings\Root\My Documents\Visual Studio 2008\Projects\Y2 BSTreeDemo\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Documents and Settings\Root\My Documents\Visual Studio 2008\Projects\Y2 BSTreeDemo\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Documents and Settings\Root\My Documents\Visual Studio 2008\Projects\Y2 BSTreeDemo\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Root\My Documents\Visual Studio 2008\Projects\Y2 BSTreeDemo\WindowsFormsApplication2\obj\Debug\Y2 BSTree Demo.exe
+C:\Documents and Settings\Root\My Documents\Visual Studio 2008\Projects\Y2 BSTreeDemo\WindowsFormsApplication2\obj\Debug\Y2 BSTree Demo.pdb
+C:\Users\Son NguyenN\source\repos\WindowsFormsApplication2\bin\Debug\Y2 BSTree Demo.exe
+C:\Users\Son NguyenN\source\repos\WindowsFormsApplication2\bin\Debug\Y2 BSTree Demo.pdb
+C:\Users\Son NguyenN\source\repos\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\Son NguyenN\source\repos\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.BSTreePanel.resources
+C:\Users\Son NguyenN\source\repos\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Son NguyenN\source\repos\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Son NguyenN\source\repos\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Son NguyenN\source\repos\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Son NguyenN\source\repos\WindowsFormsApplication2\obj\Debug\Y2 BSTree Demo.exe
+C:\Users\Son NguyenN\source\repos\WindowsFormsApplication2\obj\Debug\Y2 BSTree Demo.pdb
+C:\Users\HCM\Desktop\Code mô phỏng cây nhị phân tìm kiếm\bin\Debug\Y2 BSTree Demo.exe
+C:\Users\HCM\Desktop\Code mô phỏng cây nhị phân tìm kiếm\bin\Debug\Y2 BSTree Demo.pdb
+C:\Users\HCM\Desktop\Code mô phỏng cây nhị phân tìm kiếm\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\HCM\Desktop\Code mô phỏng cây nhị phân tìm kiếm\obj\Debug\WindowsFormsApplication2.BSTreePanel.resources
+C:\Users\HCM\Desktop\Code mô phỏng cây nhị phân tìm kiếm\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\HCM\Desktop\Code mô phỏng cây nhị phân tìm kiếm\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\HCM\Desktop\Code mô phỏng cây nhị phân tìm kiếm\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\HCM\Desktop\Code mô phỏng cây nhị phân tìm kiếm\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\HCM\Desktop\Code mô phỏng cây nhị phân tìm kiếm\obj\Debug\Y2 BSTree Demo.exe
+C:\Users\HCM\Desktop\Code mô phỏng cây nhị phân tìm kiếm\obj\Debug\Y2 BSTree Demo.pdb
